@@ -1,0 +1,10 @@
+/out
+/target
+/build
+
+#misc
+.idea
+.gradle
+.DS_Store
+Thumbs.db
+*.iml
